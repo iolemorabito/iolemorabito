@@ -8,6 +8,6 @@
 📫 How to reach me: **iolemrbt@gmail.com** 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iolemorabito&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iolemorabito&show_icons=true&theme=dark" />
 </p>
